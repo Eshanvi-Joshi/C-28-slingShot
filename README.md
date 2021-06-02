@@ -1,1 +1,3 @@
-# C-28-slingShot
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
+creating ground and platform - changecolour
